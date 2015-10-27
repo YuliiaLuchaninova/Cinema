@@ -1,0 +1,23 @@
+{
+  "name": "cinema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "---",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.6.5"
+  },
+  "scripts": {
+    "test": "---"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliiaLuchaninova/Cinema.git"
+  },
+  "author": "Julia <y.luchaninova@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliiaLuchaninova/Cinema/issues"
+  },
+  "homepage": "https://github.com/YuliiaLuchaninova/Cinema#readme"
+}

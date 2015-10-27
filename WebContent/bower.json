@@ -1,0 +1,21 @@
+{
+  "name": "Cinema",
+  "homepage": "https://github.com/YuliiaLuchaninova/Cinema",
+  "authors": [
+    "Julia <y.luchaninova@gmail.com>"
+  ],
+  "description": "DataArt IT-school project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
