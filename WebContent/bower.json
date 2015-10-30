@@ -16,6 +16,9 @@
     "tests"
   ],
   "devDependencies": {
-    "bootstrap-sass": "~3.3.5"
+    "bootstrap-sass": "~3.3.5",
+    "jquery-ui": "git://github.com/jquery/jquery-ui.git#~1.11.4",
+    "bxslider-4": "git://github.com/stevenwanderski/bxslider-4.git#~4.2.5",
+    "a-slider": "git://github.com/varunnaik/A-Slider.git#~0.9.1"
   }
 }
