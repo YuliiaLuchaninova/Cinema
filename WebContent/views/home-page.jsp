@@ -19,9 +19,9 @@ pageEncoding="ISO-8859-1" %>
                 <h1 class="logo">Cinema</h1>
             </a>
 
-            <a class="login" href="#login">Log in</a>
+            <a class="login" href="../views/logIn-Form.jsp">Log in</a>
 
-            <a class="register" href="#login">Register</a>
+            <a class="register" href="../views/Register-Form.jsp">Register</a>
         </header>
 
         <div class="row">

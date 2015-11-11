@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Cinema</title>
+    <link href="../styles/home-page.css" rel="stylesheet">
 </head>
 <body>
-<h1></h1>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="../bower_components/bootstrap-sass/assets/javascript/bootstrap.min.js"></script>
 </body>
 </html>
